@@ -1,0 +1,27 @@
+{
+  "title": "Colorado DOLA District Boundaries",
+  "description": "Colorado Department of Local Affairs (DOLA) district boundaries.",
+  "identifier": "owf-data-co-dola-district-boundaries",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/owf/municipal-boundaries/",
+  "issued": "2022-08-17",
+  "keyword": [
+    "polygon",
+    "department of local affairs",
+    "dola",
+    "districts",
+    "district boundaries"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado DOLA District Boundaries"
+    }
+  ]
+}
