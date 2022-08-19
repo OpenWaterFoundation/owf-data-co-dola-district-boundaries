@@ -1,4 +1,4 @@
-StartLog(LogFile="results/01-download-districts-from-dola.gp.log")
+StartLog(LogFile="results/01a-download-districts-from-dola.gp.log")
 # Download statewide district boundaries polygon layers from DOLA.
 # - this version uses the dataset on the DOLA website
 # - this should only need to be done periodically
